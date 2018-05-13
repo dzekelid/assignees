@@ -40,9 +40,9 @@ apis:
   tags: Assignees
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/assignees/master/_listings/github/repos-owner-repo-assignees-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/assignees/master/_listings/github/repos-owner-repo-assignees-assignee-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/assignees/master/_listings/github/repos-owner-repo-assignees-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/assignees/master/_listings/github/repos-owner-repo-assignees-assignee-get-postman.md
 x-common:
 - type: x-net-library
   url: https://github.com/octokit/octokit.net
